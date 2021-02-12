@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Feb  9 03:07:02 2021
+
+@author: suspect-0
+"""
+
+guess = 0.0
+epsilon = 0.0000001
+increment = 0.00001
+numberOfQuests = 0
+cube  = int(input("Enter a number: "))
+
+while abs(guess**2 - cube) >= epsilon and guess <= cube:
+    if guess ** 2 >= cube:
+        break
+    guess += increment
+    numberOfQuests += 1
+
+print(guess)
+print(numberOfQuests)

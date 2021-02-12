@@ -1,0 +1,112 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb 11 02:58:17 2021
+
+@author: suspect-0
+"""
+
+# =============================================================================
+# inputNumber = int(input("Enter a number! "))
+# 
+# # using bysection approach to tackle the problem
+# 
+# cube = abs(inputNumber)
+# epsilon = 0.0001
+# mid = cube / 2
+# left = 1
+# right = cube
+# 
+# # start of while loop
+# print('this where while loop begins')
+# 
+# while abs(mid**3 - cube) > epsilon:
+#     print(mid)
+#     if mid**3 < cube:
+#         # search the right side
+#         print('if block')
+#         left = mid
+#         mid = (right + left) / 2
+#     else:
+#         # search the left side
+#         print('else block')
+#         right = mid
+#         mid = (left + right) / 2
+#         
+#         
+# print('end of while loop!')
+# # if (mid**3 - cube) = epsilon:
+# #     print("The cube root of ", cube, mid)
+# # else:
+# #     print("it's not a perfect cube root!")
+# 
+# if inputNumber < 0:
+#     print(- mid, "is the closest to cube root of ", inputNumber)
+# else:
+#     print(mid, 'is the clossest to cube root of', inputNumber)
+#     
+# =============================================================================
+    
+    
+    
+    
+    
+# =============================================================================
+# num = int(input("Enter an integer: "))    
+# 
+# result = ''    
+# if num < 0:
+#     isNeg = True
+#     num = abs(num)
+# else:
+#     isNeg = False
+# if num == 0:
+#     result = '0'
+# while num > 0:
+#     result = str(num%2) + result
+#     num = num//2
+# if isNeg:
+#     result = '-' + result
+#     
+#     
+#     
+# print(result)
+# =============================================================================
+    
+    
+    
+
+# NEWTON-RAPHSON
+# better = g - (g**2 - k) / 2g 
+# k is constant here and might be cube or square number we trying the root of!
+# g is our guess
+# 2g here is the derivative of the polynomial g**2 - k aka simple calculus
+
+inputNumber = int(input("Enter a number! "))
+
+square = abs(inputNumber)
+epsilon = 0.001
+guess = square / 2
+
+
+while abs(guess ** 2 - square) >= epsilon:
+       print(guess)
+       betterGuess = guess - ((guess**2 - square) / (2 * guess))
+       guess = betterGuess
+       
+
+print('clossest square root to ', inputNumber, 'is ', guess)
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
