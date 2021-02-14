@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# *** Spyder Python Console History Log ***
-
-## ---(Tue Oct 27 23:24:53 2020)---
-runfile('/home/suspect-0/.config/spyder-py3/temp.py', wdir='/home/suspect-0/.config/spyder-py3')
-printMessage('Hellow world')
 printmessage('hello world')
 printmessage('this is my first time on anaconda')
 x = 4
@@ -93,4 +87,21 @@ WeeAre.lower()
 hello.Upper()
 'hello'.upper()
 runcell(0, '/home/suspect-0/.config/spyder-py3/secret_Guess')
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')
+
+## ---(Sat Feb 13 17:29:11 2021)---
+a = 'abc'
+a.capitalize
+a.capitalize()
+a
+runcell(0, '/home/suspect-0/.config/spyder-py3/iterPower')
+runfile('/home/suspect-0/.config/spyder-py3/iterPower', wdir='/home/suspect-0/.config/spyder-py3')
+runfile('/home/suspect-0/.config/spyder-py3/iterPower', wdir='/home/suspect-0/.config/spyder-py3')
+runcell(0, '/home/suspect-0/.config/spyder-py3/iterPower')
+runcell(0, '/home/suspect-0/.config/spyder-py3/recurPower')
+
+## ---(Sun Feb 14 12:56:57 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/Greatest_common_divisor_iter')
+runcell(0, '/home/suspect-0/.config/spyder-py3/greateCommonDivisor_Recur')
 runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')

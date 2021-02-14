@@ -1,0 +1,24 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Feb 14 13:13:01 2021
+
+@author: suspect-0
+"""
+
+def gcdRecur(a, b):
+    '''
+    a, b: positive integers
+    
+    returns: a positive integer, the greatest common divisor of a & b.
+    '''
+    # Your code here
+    print(a, b)
+    if a == 0:
+        return b
+    else:
+        return gcdRecur(b % a, a)
+    
+
+
+print(gcdRecur(9, 3))

@@ -1,0 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb  4 15:13:34 2021
+
+@author: suspect-0
+"""
+end = 11
+n = 1
+result = 0
+while n <= end:
+     result += n
+     print("result ", result)
+     n += 1
+     print("n = ", n)
+     
+print(result)
