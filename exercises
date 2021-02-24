@@ -1,0 +1,75 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Feb 23 19:54:01 2021
+
+@author: suspect-0
+"""
+
+# Your Code Here
+# def applyToEach(testList, timesFive):
+    
+#     for i in range(len(testList)):
+        
+#         testList[i] = abs(timesFive(testList[i]))
+    
+#     # return testList
+    
+
+
+
+# listItem = [-1, 4, 8, -9]
+
+# def timesFive(x):
+#     return 5 * x
+
+# print(applyToEach(listItem, timesFive))
+# print(listItem)
+
+# def applyEachTo(L, x):
+#     result = []
+#     for i in range(len(L)):
+#         print(L[i])
+#         result.append(L[i](x))
+#     return result
+
+
+
+# def square(a):
+#     return a*a
+
+# def halve(a):
+#     return a/2
+
+# def inc(a):
+#     return a+1
+
+# print(applyEachTo([inc, max, int], -3))
+
+
+animals = { 'a': ['aardvark'], 'b': ['baboon'], 'c': ['coati']}
+
+animals['d'] = ['donkey']
+animals['d'].append('dog')
+animals['d'].append('dingo')
+
+
+def how_many(aDict):
+    '''
+    aDict: A dictionary, where all the values are lists.
+
+    returns: int, how many values are in the dictionary.
+    '''
+    # Your Code Here
+    biggest = 0
+    res_key = ''
+    for key in aDict:
+        print(aDict[key])
+        temp = len(aDict[key])
+        if biggest < temp:
+            biggest = temp
+            res_key = key
+    return res_key
+
+
+print(how_many(animals))

@@ -1,0 +1,75 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb 18 13:28:39 2021
+
+@author: suspect-0
+"""
+
+balance = 4773
+annualInterestRate = 0.2
+monthlyInterestRate = annualInterestRate / 12.0
+minimumMonthlyFixedPayment = 0
+month_balance = balance
+
+while month_balance > 0:
+    break
+    minimumMonthlyFixedPayment += 0.1
+    month_balance = balance
+    totalDebt = balance
+    for i in range(12):  
+        unpaidBalance = month_balance - minimumMonthlyFixedPayment
+        interest = monthlyInterestRate * unpaidBalance
+        month_balance = unpaidBalance + interest
+        totalDebt += interest
+    print("monthly balance: ",month_balance)    
+    print('mini payment: ', minimumMonthlyFixedPayment)
+    print('Total debt: ', totalDebt)
+    
+print(minimumMonthlyFixedPayment)
+    
+
+# Using bisection search to approach the same problem
+
+
+
+print('recursion part')
+print()
+print()
+balance = 320000
+# balance = 4773
+anualInterestRate = 0.2
+
+monthlyInterestRate = anualInterestRate / 12
+lowerBound = balance / 12.0
+upperBound =  (balance * (1 + monthlyInterestRate)**12) / 12.0
+
+epsilon = 0.01
+month_balance = balance
+totalDebt = balance
+n = 0
+while abs(month_balance) > epsilon:
+    minimumMonthlyFixedPayment = (lowerBound + upperBound) / 2.0
+    n += 1
+    month_balance = balance
+    print(minimumMonthlyFixedPayment)
+    for i in range(12):  
+        unpaidBalance = month_balance - minimumMonthlyFixedPayment
+        interest =  monthlyInterestRate * unpaidBalance 
+        month_balance = unpaidBalance + interest
+        totalDebt += interest
+    print('monthly balance: ', month_balance)
+    print("totaldebt: ", totalDebt)
+    print('mini payment: ', minimumMonthlyFixedPayment)  
+    
+    if month_balance > epsilon:
+        lowerBound = minimumMonthlyFixedPayment
+    elif month_balance < -epsilon:
+        upperBound = minimumMonthlyFixedPayment
+    else:
+        break
+    
+    if (n == 50):
+        print(n)
+        break
+    

@@ -1,65 +1,3 @@
-printmessage('hello world')
-printmessage('this is my first time on anaconda')
-x = 4
-y = 2
-x, y = y, x
-y
-x
-print('this is python')
-runfile('/home/suspect-0/.config/spyder-py3/temp.py', wdir='/home/suspect-0/.config/spyder-py3')
-
-## ---(Sat Oct 31 12:25:50 2020)---
-runfile('/home/suspect-0/.config/spyder-py3/temp.py', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/temp.py', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/temp.py', wdir='/home/suspect-0/.config/spyder-py3')
-
-## ---(Thu Feb  4 13:23:02 2021)---
-runfile('/home/suspect-0/.config/spyder-py3/temp.py', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/untitled2.py', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/untitled3.py', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/untitled3.py', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/ProblemSet1', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/CountNumberOfBob', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/longestSubstring', wdir='/home/suspect-0/.config/spyder-py3')
-
-## ---(Sun Feb  7 17:34:32 2021)---
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
-4.799999999999942 ** 2
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
-3.46999999999997 ** 2
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
-3.464100000002886 ** 2
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
-3.4641100000142266 ** 2
-15 * 50
-
-## ---(Tue Feb  9 13:24:04 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runfile('/home/suspect-0/.config/spyder-py3/untitled0.py', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-
-## ---(Thu Feb 11 02:56:39 2021)---
-1 + 2
-runfile('/home/suspect-0/.config/spyder-py3/CountNumberOfBob', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-27 / 2
-13.5**3
-2450.275 - 27
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-a = 9 / 2
 a
 dif = abs(a**3 - cube)
 dif
@@ -105,3 +43,65 @@ runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
 runcell(0, '/home/suspect-0/.config/spyder-py3/Greatest_common_divisor_iter')
 runcell(0, '/home/suspect-0/.config/spyder-py3/greateCommonDivisor_Recur')
 runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')
+
+## ---(Tue Feb 16 19:57:20 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/isIn_recursively')
+len("a")
+len(" ")
+len("")
+""[0]
+runcell(0, '/home/suspect-0/.config/spyder-py3/isIn_recursively')
+runcell(0, '/home/suspect-0/.config/spyder-py3/polySum')
+runcell(0, '/home/suspect-0/.config/spyder-py3/paying_debt_off_inAYear')
+runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
+440 * 12
+120 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
+400 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
+runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
+
+## ---(Thu Feb 18 13:13:58 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+440 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+440 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+1136 * 12
+333.1826147756500 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+480 * 12
+440 * 12
+430 * 12
+5280 - 5211
+5180 - 5239
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+5239 - 430 * 12
+5225 - 440 * 12
+5225 - 430 * 12
+5211 * 440 * 12
+5211 - 440 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+441.38140201052795 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+434.89999999974947 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+29591.881132069757 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+29157.09 * 12
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+349885.08 - 349283.8314914723
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+
+## ---(Mon Feb 22 13:54:05 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
+
+## ---(Tue Feb 23 18:27:36 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/oddTuples')
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')

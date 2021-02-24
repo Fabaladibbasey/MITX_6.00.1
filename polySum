@@ -1,0 +1,35 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Feb 17 03:41:21 2021
+
+@author: suspect-0
+"""
+
+
+import math
+
+def poly_sum(n, s):
+    """
+    Parameters
+    ----------
+    n : int
+        is the size of polygon and cannot be negative or decimal.
+    s : int or float
+        the length of polygon can be any number int or float.
+
+    Returns
+    -------
+        float.
+
+    """
+
+    area = (0.25 * n * s**2) / (math.tan(math.pi / n))
+    perimeter = (s * n)**2
+    
+    print(perimeter)
+    print(area)
+    return round((area + perimeter), 4)
+
+
+print(poly_sum(31, 60))

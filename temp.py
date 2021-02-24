@@ -17,4 +17,3 @@ if x > 3:
     print("yes x is greater than 3")
 else:
     print("nope x is less than 3")
-
