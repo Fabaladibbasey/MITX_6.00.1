@@ -1,32 +1,3 @@
-a
-dif = abs(a**3 - cube)
-dif
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-23
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-11 / 8
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-result
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-1011 / 1000
--8
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-3/8 * 8
-35.88 % 1
-4 % 1
-4.0 % 1
-5.1 % 1
-0.1
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-5.830888 ** 2
-runcell(0, '/home/suspect-0/.config/spyder-py3/Guess_And_Check_bisection')
-runcell(0, '/home/suspect-0/.config/spyder-py3/secret_Guess')
-WeeAre.lower()
-hello.Upper()
-'hello'.upper()
-runcell(0, '/home/suspect-0/.config/spyder-py3/secret_Guess')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')
-
 ## ---(Sat Feb 13 17:29:11 2021)---
 a = 'abc'
 a.capitalize
@@ -117,3 +88,66 @@ v
 runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
 runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
 runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
+
+## ---(Sat Feb 27 04:45:17 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/debuging_practices')
+
+## ---(Wed Mar  3 03:22:59 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/exceptions&Assertions')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a.py')
+test_updatehand
+test_updateHand()
+test_getWordScore()
+
+## ---(Sat Mar  6 07:24:20 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/test_ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+dic = {'r': 1, 'a': 3, 'p': 2, 'e': 1, 't': 1, 'u': 1}
+dic2 = {'r': 1, 'a': 3, 'p': 2, 'e': 1, 't': 1, 'u': 1}
+dic == dic2
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
