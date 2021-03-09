@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(1, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a')
 from ps4a import *
 import time
 
@@ -125,9 +127,44 @@ def playGame(wordList):
     wordList: list (string)
     """
     # TO DO... <-- Remove this comment when you code this function
-    print("playGame not yet implemented.") # <-- Remove this when you code this function
-
-        
+    hand = {}
+    while True:
+        status = input('Enter n to deal a new hand, r to replay the last hand, or e to end game: ')
+        if status == 'n':
+            player = ''
+            while True:
+                player = input('Enter u to have yourself play, c to have the computer play: ')
+                if player == 'u':
+                    hand = dealHand(HAND_SIZE)
+                    playHand(hand, wordList, HAND_SIZE)
+                    break
+                elif player == 'c':
+                    hand = dealHand(HAND_SIZE)
+                    compPlayHand(hand, wordList, HAND_SIZE)
+                    break
+                else:
+                    print('Invalid command.')
+        elif status == 'r':
+            if hand != {}:
+                player = ''
+                while True:
+                    player = input('Enter u to have yourself play, c to have the computer play: ')
+                    if player == 'u':
+                        playHand(hand, wordList, HAND_SIZE)
+                        break
+                    elif player == 'c':
+                        compPlayHand(hand, wordList, HAND_SIZE)
+                        break
+                    else:
+                        print('Invalid command.')
+            else:
+                print('You have not played a hand yet. Please play a new hand first!')
+            
+        elif status == 'e':
+            break
+        else:
+            print('Invalid command.')
+                   
 #
 # Build data structures used for entire session and play game
 #

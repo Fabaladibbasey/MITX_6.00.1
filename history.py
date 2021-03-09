@@ -1,55 +1,3 @@
-## ---(Sat Feb 13 17:29:11 2021)---
-a = 'abc'
-a.capitalize
-a.capitalize()
-a
-runcell(0, '/home/suspect-0/.config/spyder-py3/iterPower')
-runfile('/home/suspect-0/.config/spyder-py3/iterPower', wdir='/home/suspect-0/.config/spyder-py3')
-runfile('/home/suspect-0/.config/spyder-py3/iterPower', wdir='/home/suspect-0/.config/spyder-py3')
-runcell(0, '/home/suspect-0/.config/spyder-py3/iterPower')
-runcell(0, '/home/suspect-0/.config/spyder-py3/recurPower')
-
-## ---(Sun Feb 14 12:56:57 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/Greatest_common_divisor_iter')
-runcell(0, '/home/suspect-0/.config/spyder-py3/greateCommonDivisor_Recur')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')
-
-## ---(Tue Feb 16 19:57:20 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/isIn_recursively')
-len("a")
-len(" ")
-len("")
-""[0]
-runcell(0, '/home/suspect-0/.config/spyder-py3/isIn_recursively')
-runcell(0, '/home/suspect-0/.config/spyder-py3/polySum')
-runcell(0, '/home/suspect-0/.config/spyder-py3/paying_debt_off_inAYear')
-runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
-440 * 12
-120 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
-400 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
-runcell(0, '/home/suspect-0/.config/spyder-py3/PayingOffDebf_fixedMonthlyPayment')
-
-## ---(Thu Feb 18 13:13:58 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-440 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-440 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-1136 * 12
-333.1826147756500 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-480 * 12
-440 * 12
-430 * 12
-5280 - 5211
-5180 - 5239
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-5239 - 430 * 12
 5225 - 440 * 12
 5225 - 430 * 12
 5211 * 440 * 12
@@ -151,3 +99,15 @@ runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
 runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
 runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
 runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+
+## ---(Mon Mar  8 13:10:49 2021)---
+if 0;
+if 0:
+    print("yes")
+    
+if 1:
+   print("yes")
+   
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/ps4b.py')
