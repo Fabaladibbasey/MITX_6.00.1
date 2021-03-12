@@ -1,113 +1,138 @@
-5225 - 440 * 12
-5225 - 430 * 12
-5211 * 440 * 12
-5211 - 440 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-441.38140201052795 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-434.89999999974947 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-29591.881132069757 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-29157.09 * 12
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-349885.08 - 349283.8314914723
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
-runcell(0, '/home/suspect-0/.config/spyder-py3/payingOffDebt_fixedMonthlyInstallment')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+half + two_third
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+half + two_third
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+new = half + two_third
+new
+new.convert
+new.convert()
+new
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+new = half + two_third
+new
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+new = half + two_third
+new
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+half
+print(half)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+s = intSet()
+s
+s.insert(2)
+print(s)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+peter = Rabbit(2)
+peter.set_name('Peter')
+hopsy = Rabbit(3)
+hopsy.set_name('Hopsy')
+mopsy = peter + hopsy
+mopsy
+print(mopsy)
+print(mopsy.get_parent(parent1))
+mopsy.set_name('Mopsy')
+print(mopsy.get_parent1)
+print(mopsy.get_parent1())
+print(peter.get_parent1())
+print(mopsy.get_parent1())
+print(mopsy.get_parent2())
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
 
-## ---(Mon Feb 22 13:54:05 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled0.py')
-
-## ---(Tue Feb 23 18:27:36 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/oddTuples')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled1.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/untitled2.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-v
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ps3_hangman.py')
-
-## ---(Sat Feb 27 04:45:17 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/debuging_practices')
-
-## ---(Wed Mar  3 03:22:59 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/exceptions&Assertions')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a.py')
-test_updatehand
-test_updateHand()
-test_getWordScore()
-
-## ---(Sat Mar  6 07:24:20 2021)---
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/test_ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-dic = {'r': 1, 'a': 3, 'p': 2, 'e': 1, 't': 1, 'u': 1}
-dic2 = {'r': 1, 'a': 3, 'p': 2, 'e': 1, 't': 1, 'u': 1}
-dic == dic2
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/test_ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-
-## ---(Mon Mar  8 13:10:49 2021)---
-if 0;
-if 0:
-    print("yes")
-    
-if 1:
-   print("yes")
-   
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4a/ps4a.py')
+## ---(Wed Mar 10 14:33:36 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled0.py')
 runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/ps4b.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/ps4b.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled0.py')
+print(w)
+w.getX()
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+c == d
+c.getX(1)
+c.x = 1
+c == d
+c.getX()
+d.x = 1
+c ==  d
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+c 
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+c
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+c
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+d
+c
+a
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+a
+print(a)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+print(a)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+a
+print(a)
+l1 = [1, 8, 2, 2, 9]
+l1
+l1.sort()
+l1
+l1 = [1, 8, 2, 2, 9]
+l1
+l2 = l1.sort()
+l2
+print(l2)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+a
+print(a)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+print(a)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+c
+ 
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+c
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+c
+print(c)
+print(len(c))
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+len(c)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled2.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+
+## ---(Thu Mar 11 18:01:00 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/Spell')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/InheritanceLookUP')
+obj = D()
+obj.a
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/InheritanceLookUP')
+obj = D()
+obj.a
+obj.b
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/InheritanceLookUP')
+obj.b
+obj.a
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/InheritanceLookUP')
+obj.a
+obj.b
+obj.c
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/InheritanceLookUP')
+x = isinstance("Hello", (float, int, str, list, dict, tuple))
+x
+x = isinstance("Hello", (float, int, list, dict, tuple))
+x
+x = 'hello'
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/InheritanceLookUP')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+p1
+print(p1)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+m1.speak
+m1.speak()
+m1.speak('hi i don\'t know what you should say')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+print(MITPersonList)
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+m1.speak('just speak')
+print(m1.speak('just speak'))

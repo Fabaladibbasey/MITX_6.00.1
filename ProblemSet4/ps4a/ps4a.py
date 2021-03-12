@@ -182,7 +182,6 @@ def isValidWord(word, hand, wordList):
     
     # check if every letter is a key in hand dic
     
-    
     new_hand = getFrequencyDict(word)
     
     for key in new_hand:

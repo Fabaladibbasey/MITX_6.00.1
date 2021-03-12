@@ -1,0 +1,70 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Mar 11 18:30:00 2021
+
+@author: suspect-0
+"""
+
+class A(object):
+    def __init__(self):
+        self.a = 1
+    def x(self):
+        print("A.x")
+    def y(self):
+        print("A.y")
+    def z(self):
+        print("A.z")
+
+class B(A):
+    def __init__(self):
+        A.__init__(self)
+        self.a = 2
+        self.b = 3
+    def y(self):
+        print("B.y")
+    def z(self):
+        print("B.z")
+
+class C(object):
+    def __init__(self):
+        self.a = 4
+        self.c = 5
+    def y(self):
+        print("C.y")
+    def z(self):
+        print("C.z")
+
+class D(C, B):
+    def __init__(self):
+        C.__init__(self)
+        B.__init__(self)
+        self.d = 6
+    def z(self):
+        print("D.z")
+        
+       
+obj = D()
+
+isinstance(obj, D)
+        
+# The initialization sequence looks like this:
+
+# D.__init__
+#     class D calls C.__init__
+#         class C sets a value for self.a
+#         class C sets a value for self.c
+#     class D calls B.__init__
+#         class B calls A.__init__
+#             class A sets a new value for self.a
+#         class B sets a new value for self.a
+#         class B sets a value for self.b
+#     class D sets a value for self.d
+        
+        
+
+        
+        
+        
+        
+        
