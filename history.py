@@ -1,40 +1,3 @@
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-half + two_third
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-half + two_third
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-new = half + two_third
-new
-new.convert
-new.convert()
-new
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-new = half + two_third
-new
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-new = half + two_third
-new
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-half
-print(half)
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-s = intSet()
-s
-s.insert(2)
-print(s)
-runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
-peter = Rabbit(2)
-peter.set_name('Peter')
-hopsy = Rabbit(3)
-hopsy.set_name('Hopsy')
-mopsy = peter + hopsy
-mopsy
-print(mopsy)
-print(mopsy.get_parent(parent1))
-mopsy.set_name('Mopsy')
-print(mopsy.get_parent1)
-print(mopsy.get_parent1())
-print(peter.get_parent1())
 print(mopsy.get_parent1())
 print(mopsy.get_parent2())
 runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
@@ -136,3 +99,31 @@ print(MITPersonList)
 runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
 m1.speak('just speak')
 print(m1.speak('just speak'))
+
+## ---(Fri Mar 12 12:18:59 2021)---
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/classes&&Inheritance')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+gen.__init__()
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+gen.__init__()
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+gen.__next()
+gen.__next__()
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/ps6.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ProblemSet4/ps4b/untitled1.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/ps6.py')
+originalAphabets[2]
+riginalAphabets[2]
+originalAphabets[2]
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/ps6.py')
+originalAlphabets[2]
+originalAlphabets[2:]
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/ps6.py')
+originalAlphabets
+al = string.ascii
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/ps6.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/untitled3.py')
+runfile('/home/suspect-0/.config/spyder-py3/ps6/untitled3.py', wdir='/home/suspect-0/.config/spyder-py3/ps6')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/untitled3.py')
+runcell(0, '/home/suspect-0/.config/spyder-py3/ps6/ps6.py')
