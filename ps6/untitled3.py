@@ -76,8 +76,51 @@ def apply_shift(shift):
 apply_shift("this is Problem Set 6?")
 
 
+def decrypt_message(self):
+        '''
+        Decrypt self.message_text by trying every possible shift value
+        and find the "best" one. We will define "best" as the shift that
+        creates the maximum number of real words when we use apply_shift(shift)
+        on the message text. If s is the original shift value used to encrypt
+        the message, then we would expect 26 - s to be the best shift value 
+        for decrypting it.
 
+        Note: if multiple shifts are  equally good such that they all create 
+        the maximum number of you may choose any of those shifts (and their
+        corresponding decrypted messages) to return
 
+        Returns: a tuple of the best shift value used to decrypt the message
+        and the decrypted message text using that shift value
+        '''
+        
+    #     for i in range(1, 27):
+            
+    #     splitedWords = self.message_text.split(" ")
+    #     resultList = []
+
+    #     for eachWord in splitedWords:
+    #         self.message_text = eachWord
+    #         aWord = self.the_word(self.message_text)
+    #         aWord = is_word(aWord)
+    #         resultList.append(aWord)
+    #         print(aWord)
+            
+    #     print(resultList)
+
+    #     print('ohhh' , self.the_word(aWord))
+        
+    # def the_word(self, word):
+        
+    #     word_list = self.get_valid_words()
+    #     for i in range(26, -1, -1):
+            
+    #         if word.lower() in word_list:
+    #             return i, word
+    #         word = self.apply_shift(i)
+    
+    #     return i, word
+        
+    
 
 
 

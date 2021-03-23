@@ -48,7 +48,7 @@ def get_story_string():
     """
     Returns: a joke in encrypted text.
     """
-    f = open("story.txt", "r")
+    f = open("/home/suspect-0/.config/spyder-py3/ps6/story.txt", "r")
     story = str(f.read())
     f.close()
     return story
@@ -216,6 +216,7 @@ class PlaintextMessage(Message):
 
 class CiphertextMessage(Message):
     def __init__(self, text):
+        Message.__init__(self, text)
         '''
         Initializes a CiphertextMessage object
                 
@@ -225,7 +226,6 @@ class CiphertextMessage(Message):
             self.message_text (string, determined by input text)
             self.valid_words (list, determined using helper function load_words)
         '''
-        pass #delete this line and replace with your code here
 
     def decrypt_message(self):
         '''
@@ -243,7 +243,46 @@ class CiphertextMessage(Message):
         Returns: a tuple of the best shift value used to decrypt the message
         and the decrypted message text using that shift value
         '''
-        pass #delete this line and replace with your code here
+        
+        # wordList = self.get_valid_words()
+        # words = self.get_message_text().split()
+        # decryptedList = []
+        # for word in words:
+        #     self.message_text = word
+        #     decryptWord = word
+        #     for i in range(1, 27):
+        #         if is_word(wordList, decryptWord):
+        #             decryptedList.append(decryptWord)
+        #             break
+        #         else:
+        #             decryptWord = self.apply_shift(i)
+                    
+        
+        
+        # readableTxt = ' '.join(decryptedList)
+       
+        # return i - 1, readableTxt
+        
+ 
+        best_shift = None
+        best_real_words = 0
+        best_msg = ""
+       
+        for s in range(26):
+            decrypted_text = self.apply_shift(s)
+            words = decrypted_text.split()
+            real_words = sum([is_word(self.get_valid_words(), w) for w in words])
+            if real_words > best_real_words:
+                best_shift = s
+                best_real_words = real_words
+                best_msg = decrypted_text
+
+        return (best_shift, best_msg)
+            
+        
+        
+        
+        
 
 #Example test case (PlaintextMessage)
 plaintext = PlaintextMessage('hello', 2)
@@ -254,3 +293,34 @@ print('Actual Output:', plaintext.get_message_text_encrypted())
 ciphertext = CiphertextMessage('jgnnq')
 print('Expected Output:', (24, 'hello'))
 print('Actual Output:', ciphertext.decrypt_message())
+
+
+
+
+
+
+
+plain = PlaintextMessage('''Message is obedience discovery hill 
+pastry sore despair sign relation impossible FALSE 
+bribery if autumn beam track leather care read rescue 
+anyone chain relate importance explosion arrest 
+department return husband hat wire poison screen 
+ought holiday beyond
+''', 5)
+print(plain.message_text_encrypted)
+ciphert = CiphertextMessage(plain.message_text_encrypted)
+print('Actual Output:', ciphert.decrypt_message())
+
+
+# abcdefgh
+# cdefghab
+# hab --> bcd
+# wanted t
+
+# def decrypt_story():
+#     ciphere = CiphertextMessage(get_story_string())
+#     return ciphere.decrypt_message()
+
+
+
+# print(decrypt_story())
